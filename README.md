@@ -2,10 +2,10 @@
 
 This is a weather web application built using HTML, CSS, JavaScript, and the OpenWeatherMap API. It allows users to search for the current weather conditions of any city around the world.
 
-[Visit The site](https://mazkeen.github.io/Weather-Application/)
+[🔗 Visit the Live Website](https://MahimaR-athore.github.io/Weather-Web-Application/)
 
-![image](https://github.com/nisha-laur/Weather-Application/assets/104618576/9066f83a-50cb-4268-a905-fdb26692499d)
-![image](https://github.com/nisha-laur/Weather-Application/assets/104618576/b3ee6892-1b6f-432d-a274-830a47346038)
+![image](https://raw.githubusercontent.com/MahimaR-athore/Weather-Web-Application/assets-branch/Weather-Web-Applicationassets/250228680-9066f83a-50cb-4268-a905-fdb26692499d.png)
+![image](https://raw.githubusercontent.com/MahimaR-athore/Weather-Web-Application/assets-branch/Weather-Web-Applicationassets/250228716-b3ee6892-1b6f-432d-a274-830a47346038.png)
 
 
 **Features**
@@ -46,7 +46,7 @@ Replace {city} with the name of the city you want to get weather data for, and {
 For more details on the OpenWeatherMap API and available endpoints, refer to the official documentation.
 
 **Credits**
-This application was created by Nisha Laur. It utilizes the following technologies and resources:
+This application was created by Mahima Rathore and Nisha Laur. It utilizes the following technologies and resources:
 
 * HTML
 * CSS
